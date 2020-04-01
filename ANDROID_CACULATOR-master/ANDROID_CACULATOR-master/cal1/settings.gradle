@@ -1,0 +1,2 @@
+rootProject.name='cal1'
+include ':app'
